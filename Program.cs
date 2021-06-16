@@ -14,5 +14,10 @@ namespace SampleConsole
             }
             Console.WriteLine("New comment added by deepak");
         }
+
+        static int Substract(int x, int y)
+        {
+            return x-y;
+        }
     }
 }
