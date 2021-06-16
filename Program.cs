@@ -13,6 +13,11 @@ namespace SampleConsole
                 Console.WriteLine(i);
             }
             Console.WriteLine("New comment added by deepak");
+
+            clsStudent obj = new clsStudent();
+            obj.StudentID = 100;
+            obj.StudentName = "deepak";
+            obj.Age = 33; 
         
         }
 
