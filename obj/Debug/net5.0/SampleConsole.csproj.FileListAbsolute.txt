@@ -1,0 +1,16 @@
+E:\.Net Prctice 2021\SampleConsole\bin\Debug\net5.0\SampleConsole.exe
+E:\.Net Prctice 2021\SampleConsole\bin\Debug\net5.0\SampleConsole.deps.json
+E:\.Net Prctice 2021\SampleConsole\bin\Debug\net5.0\SampleConsole.runtimeconfig.json
+E:\.Net Prctice 2021\SampleConsole\bin\Debug\net5.0\SampleConsole.runtimeconfig.dev.json
+E:\.Net Prctice 2021\SampleConsole\bin\Debug\net5.0\SampleConsole.dll
+E:\.Net Prctice 2021\SampleConsole\bin\Debug\net5.0\ref\SampleConsole.dll
+E:\.Net Prctice 2021\SampleConsole\bin\Debug\net5.0\SampleConsole.pdb
+E:\.Net Prctice 2021\SampleConsole\obj\Debug\net5.0\SampleConsole.csprojAssemblyReference.cache
+E:\.Net Prctice 2021\SampleConsole\obj\Debug\net5.0\SampleConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\.Net Prctice 2021\SampleConsole\obj\Debug\net5.0\SampleConsole.AssemblyInfoInputs.cache
+E:\.Net Prctice 2021\SampleConsole\obj\Debug\net5.0\SampleConsole.AssemblyInfo.cs
+E:\.Net Prctice 2021\SampleConsole\obj\Debug\net5.0\SampleConsole.csproj.CoreCompileInputs.cache
+E:\.Net Prctice 2021\SampleConsole\obj\Debug\net5.0\SampleConsole.dll
+E:\.Net Prctice 2021\SampleConsole\obj\Debug\net5.0\ref\SampleConsole.dll
+E:\.Net Prctice 2021\SampleConsole\obj\Debug\net5.0\SampleConsole.pdb
+E:\.Net Prctice 2021\SampleConsole\obj\Debug\net5.0\SampleConsole.genruntimeconfig.cache
