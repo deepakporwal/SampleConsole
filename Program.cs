@@ -18,7 +18,7 @@ namespace SampleConsole
             obj.StudentID = 100;
             obj.StudentName = "deepak";
             obj.Age = 33; 
-            obj.Salary = 900000;
+        
         }
 
         static int Sum(int x,int y)
