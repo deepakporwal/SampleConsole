@@ -13,11 +13,16 @@ namespace SampleConsole
                 Console.WriteLine(i);
             }
             Console.WriteLine("New comment added by deepak");
-            
-            static int Sum(int x,int y)
+        
+        }
+
+        static int Sum(int x,int y)
             {
                 return x+ y;
             }
+        static int Substract(int x, int y)
+        {
+            return x-y;
         }
     }
 }
