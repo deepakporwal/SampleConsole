@@ -23,7 +23,7 @@ namespace SampleConsole
             
             if(obj ==null)
             {
-                Console.WriteLine("nikita changes");
+                Console.WriteLine("object is null");
             }
         
         }
