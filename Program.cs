@@ -36,5 +36,9 @@ namespace SampleConsole
         {
             return x-y;
         }
+        static int Div(int x, int y)
+        {
+            return x/y;
+        }
     }
 }
