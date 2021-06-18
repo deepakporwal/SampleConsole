@@ -36,9 +36,15 @@ namespace SampleConsole
         {
             return x-y;
         }
+
+        static int Mul(int a,int b)
+        {
+            return a*b;
+
         static int Div(int x, int y)
         {
             return x/y;
+
         }
     }
 }
