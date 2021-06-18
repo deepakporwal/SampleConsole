@@ -18,6 +18,11 @@ namespace SampleConsole
             obj.StudentID = 100;
             obj.StudentName = "deepak";
             obj.Age = 33; 
+            
+            if(obj ==null)
+            {
+                Console.WriteLine("nikita changes");
+            }
         
         }
 
